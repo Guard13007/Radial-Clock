@@ -1,7 +1,9 @@
 # Radial-Clock
 A simple radial clock written in Lua using LÖVE for the graphics/running it.
 
-To use it in its present state, you need to download LÖVE and install it. On Windows, simply double click "run src.bat" (assuming you have installed the 64 bit version). On Mac/Linux, I expect you to know how to use the terminal...
+![Screenshot of the clock](https://raw.githubusercontent.com/Guard13007/Radial-Clock/master/screenshots/watch.png)
+
+To use it in its present state, you need to download [LÖVE](http://love2d.org/) and install it. On Windows, simply double click "run src.bat" (assuming you have installed the 64 bit version). On Mac/Linux, I expect you to know how to use the terminal...
 
 F - toggle fullscreen
 G - fake fullscreen (full screen in borderless window)
